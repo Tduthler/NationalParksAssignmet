@@ -11,7 +11,6 @@
 			<Zip>59936</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.8" NearestAirport="Yellowstone Regional Airport">
 		<n>Yellowstone</n>
 		<Phone>307-344-7381</Phone>
@@ -23,7 +22,6 @@
 			<Zip>82190</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.8" NearestAirport="Fresno Yosemite International Airport">
 		<n>Yosemite</n>
 		<Phone>209-372-0200</Phone>
@@ -35,7 +33,6 @@
 			<Zip>95389</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.9" NearestAirport="Flagstaff Pulliam Airport">
 		<n>Grand Canyon</n>
 		<Phone>928-638-7496</Phone>
@@ -49,7 +46,6 @@
 			<Zip>86023</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.8" NearestAirport="Jackson Hole Airport">
 		<n>Grand Teton</n>
 		<Phone>307-739-3300</Phone>
@@ -62,7 +58,6 @@
 			<Zip>83012</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating ="4.8" NearestAirport="St. George Regional Airport">
 		<n>Zion</n>
 		<Phone>435-772-3256</Phone>
@@ -74,7 +69,6 @@
 			<Zip>84767</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.9" NearestAirport="Seward Airport">
 		<n>Kenai Fjords</n>
 		<Phone>907-318-2040</Phone>
@@ -87,7 +81,6 @@
 			<Zip>99664</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.9" NearestAirport="Cedar City Regional Airport">
 		<n>Bryce Canyon</n>
 		<Phone>435-834-5322</Phone>
@@ -99,7 +92,6 @@
 			<Zip>84764</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.8" NearestAirport="Canyonlands Regional Airport">
 		<n>Arches</n>
 		<Phone>435-719-2299</Phone>
@@ -111,7 +103,6 @@
 			<Zip>84532</Zip>
 		</Address>
 	</NationalPark>
-
 	<NationalPark Rating="4.8" NearestAirport="Seattle-Tacoma International Airport">
 		<n>Olympic</n>
 		<Phone>360-565-3130</Phone>
