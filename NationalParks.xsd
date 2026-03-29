@@ -1,4 +1,4 @@
-<NationalParks xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" NationalParks.xsd">
+<NationalParks xmlns="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" NationalParks.xsd">
   <xs:element name="NationalParks">
     <xs:complexType>
       <xs:sequence>
