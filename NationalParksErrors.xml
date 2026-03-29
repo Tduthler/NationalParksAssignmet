@@ -1,5 +1,4 @@
-<NationalParks xmlns="" xmlns:xsi="" xsi:schemaLocation=" NationalParks.xsd">
-
+<NationalPark xmlns="" xmlns:xsi="" xsi:schemaLocation=" NationalParks.xsd">
 	<NationalPark Rating="4.9">
 		<n>Glacier</n>
 		<Phone>406-888-7800</Phone>
@@ -125,5 +124,4 @@
 			<Zip>98362</Zip>
 		</Address>
 	</NationalPark>
-
-</NationalParks>
+</NationalPark>
