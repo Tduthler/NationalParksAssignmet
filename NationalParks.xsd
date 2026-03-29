@@ -1,5 +1,4 @@
 <NationalParks xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" NationalParks.xsd">
-	
   <xs:element name="NationalParks">
     <xs:complexType>
       <xs:sequence>
@@ -25,5 +24,4 @@
       <xs:element name="Zip"    type="xs:string"/>
     </xs:sequence>
   </xs:complexType>
-
 </xs:schema>
