@@ -1,4 +1,4 @@
-<NationalParks xmlns="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation=" NationalParks.xsd">
+<NationalParks xmlns="https://github.com/Tduthler/NationalParksAssignmet/blob/main/NationalParks.xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/Tduthler/NationalParksAssignmet/blob/main/NationalParks.xml NationalParks.xsd">
 	<NationalPark Rating="4.9" NearestAirport="Glacier Park International Airport">
 		<n>Glacier</n>
 		<Phone>406-888-7800</Phone>
