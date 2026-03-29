@@ -1,27 +1,27 @@
-<xs:schema xs="http://www.w3.org/2001/XMLSchema" xmlns="https://tduthler.github.io/NationalParksAssignmet/NationalParks.xml" targetNamespace="https://tduthler.github.io/NationalParksAssignmet/NationalParks.xml" elementFormDefault="qualified" attributeFormDefault="unqualified">
-  <xs:element name="NationalParks">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element name="NationalPark" type="NationalParkType" maxOccurs="unbounded"/>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element> 
-  <xs:complexType name="NationalParkType">
-    <xs:sequence>
-      <xs:element name="Name"    type="xs:string"/>
-      <xs:element name="Phone"   type="xs:string" maxOccurs="unbounded"/>
-      <xs:element name="Address" type="AddressType"/>
-    </xs:sequence>
-    <xs:attribute name="Rating"       type="xs:decimal" use="optional"/>
-    <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
-  </xs:complexType>
-  <xs:complexType name="AddressType">
-    <xs:sequence>
-      <xs:element name="Number" type="xs:integer"/>
-      <xs:element name="Street" type="xs:string"/>
-      <xs:element name="City"   type="xs:string"/>
-      <xs:element name="State"  type="xs:string"/>
-      <xs:element name="Zip"    type="xs:string"/>
-    </xs:sequence>
-  </xs:complexType>
-</xs:schema>
+<xsd:schema xsd="http://www.w3.org/2001/XMLSchema" xmlns="https://tduthler.github.io/NationalParksAssignmet/NationalParks.xml" targetNamespace="https://tduthler.github.io/NationalParksAssignmet/NationalParks.xml" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xsd:element name="NationalParks">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="NationalPark" type="NationalParkType" maxOccurs="unbounded"/>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element> 
+  <xsd:complexType name="NationalParkType">
+    <xsd:sequence>
+      <xsd:element name="Name"    type="xsd:string"/>
+      <xsd:element name="Phone"   type="xsd:string" maxOccurs="unbounded"/>
+      <xsd:element name="Address" type="AddressType"/>
+    </xsd:sequence>
+    <xsd:attribute name="Rating"       type="xsd:decimal" use="optional"/>
+    <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
+  </xsd:complexType>
+  <xsd:complexType name="AddressType">
+    <xsd:sequence>
+      <xsd:element name="Number" type="xsd:integer"/>
+      <xsd:element name="Street" type="xsd:string"/>
+      <xsd:element name="City"   type="xsd:string"/>
+      <xsd:element name="State"  type="xsd:string"/>
+      <xsd:element name="Zip"    type="xsd:string"/>
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:schema>
