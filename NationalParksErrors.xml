@@ -1,0 +1,129 @@
+<NationalParks xmlns="" xmlns:xsi="" xsi:schemaLocation=" NationalParks.xsd">
+
+	<NationalPark Rating="4.9">
+		<n>Glacier</n>
+		<Phone>406-888-7800</Phone>
+		<Phone>406-888-7801</Phone>
+		<Address>
+			<Number>64</Number>
+			<Street>Grinnell Drive</Street>
+			<City>West Glacier</City>
+			<State>MT</State>
+			<Zip>59936</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="Yellowstone Regional Airport">
+		<n>Yellowstone</n>
+		<Address>
+			<Number>30</Number>
+			<Street>Yellowstone Ave</Street>
+			<City>Yellowstone</City>
+			<State>WY</State>
+			<Zip>82190</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="Fresno Yosemite International Airport">
+		<n>Yosemite</n>
+		<Phone>209-372-0200</Phone>
+		<Address>
+			<Number>8308</Number>
+			<Street>Wawona Road</Street>
+			<City>Yosemite Valley</City>
+			<State>CA</State>
+			<Zip>95389</Zip>
+	</NationalPark>
+
+	<NationalPark Rating="4.9" NearestAirport="Flagstaff Pulliam Airport">
+		<n>Grand Canyon</n>
+		<n>Grand Canyons</n>
+		<Phone>928-638-7496</Phone>
+		<Phone>888-297-2757</Phone>
+		<Phone>866-499-2574</Phone>
+		<Address>
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="Jackson Hole Airport">
+		<n>Grand Teton</n>
+		<Phone>307-739-3300</Phone>
+		<Phone>307-739-3301</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Teton Park Road</Street>
+			<City>Moose</City>
+			<State>WY</State>
+			<Zip>83012</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating ="4.8" NearestAirport="St. George Regional Airport">
+		<n>Zion</n>
+		<Phone>435-772-3256</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Zion Park Boulevard</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zip>84767</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9" NearestAirport="Seward Airport">
+		<n>Kenai Fjords</n>
+		<Phone>907-318-2040</Phone>
+		<Phone>907-318-2064</Phone>
+		<Address>
+			<Number>1212</Number>
+			<Street>4th Avenue</Street>
+			<City>Seward</City>
+			<State>AK</State>
+			<Zip>99664</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.9" NearestAirport="Cedar City Regional Airport">
+		<n>Bryce Canyon</n>
+		<Phone>435-834-5322</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Highway 63</Street>
+			<City>Bryce Canyon City</City>
+			<State>UT</State>
+			<Zip>84764</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="Canyonlands Regional Airport">
+		<n>Arches</n>
+		<Phone>435-719-2299</Phone>
+		<Address>
+			<Number>2</Number>
+			<Street>N Highway 191</Street>
+			<City>Moab</City>
+			<State>UT</State>
+			<Zip>84532</Zip>
+		</Address>
+	</NationalPark>
+
+	<NationalPark Rating="4.8" NearestAirport="Seattle-Tacoma International Airport">
+		<n>Olympic</n>
+		<Phone>360-565-3130</Phone>
+		<Phone>360-565-3131</Phone>
+		<Phone>360-565-3100</Phone>
+		<Address>
+			<Number>600</Number>
+			<Street>E Park Avenue</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zip>98362</Zip>
+		</Address>
+	</NationalPark>
+
+</NationalParks>
